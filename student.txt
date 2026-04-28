@@ -1,0 +1,5 @@
+S001,Nguyen Van An,8.5
+S002,Tran Thi Binh,7.0
+S003,Le Van Cao,9.0
+S004,Pham Thi Dung,6.5
+S005,Hoang Van Em,5.0
