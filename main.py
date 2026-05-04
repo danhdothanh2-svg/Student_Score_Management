@@ -30,11 +30,11 @@ def display_students():
         print("No student found.")
         return
     
-    print(f"{'ID':<10}{'Name':<20}{'Score':<10}")
-    print("-"*40)
+    print(f"{'ID':<15}{'Name':<20}{'Score':<10}")
+    print("-"*45)
     
     for s in students:
-        print(f"{s['id']:<10}{s['name']:<20}{s['score']:<10}")
+        print(f"{s['id']:<15}{s['name']:<20}{s['score']:<10}")
 
 def search_student():
     keyword = input("Enter ID or Name: ")
