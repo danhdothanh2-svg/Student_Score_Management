@@ -317,3 +317,19 @@ python app.py
 * **Course:** Programming Methods 1
 
 ---
+
+## 14. Self-Assessment
+| #         | Component        | Criteria              | Max      | Score    |
+| --------- | ---------------- | --------------------- | -------- | -------- |
+| 1         | CLI Menu         | Fully functional loop | 1.0      | 1.0      |
+| 2         | Input Validation | Score validation      | 1.0      | 1.0      |
+| 3         | Data Display     | Clean output          | 1.0      | 1.0      |
+| 4         | Search           | ID & name             | 1.0      | 1.0      |
+| 5         | Sorting          | Descending score      | 1.0      | 1.0      |
+| 6         | Statistics       | Avg, max, min         | 1.0      | 1.0      |
+| 7         | TXT File I/O     | Save & load           | 1.0      | 1.0      |
+| 8         | Advanced Search  | Keyword search        | 1.0      | 1.0      |
+| 9         | JSON Storage     | Export & import       | 1.0      | 1.0      |
+| 10        | Code Structure   | Modular design        | 1.0      | 1.0      |
+| **TOTAL** |                  |                       | **10.0** | **10.0** |
+
